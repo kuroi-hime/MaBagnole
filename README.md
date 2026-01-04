@@ -54,5 +54,5 @@ Ce projet vise à développer une plateforme intuitive permettant aux clients de
 
 1. **Clonage du projet** :
 ```bash
-   git clone [https://github.com/votre-compte/mabagnole.git](https://github.com/votre-compte/mabagnole.git)
+   git clone https://github.com/kuroi-hime/MaBagnole.git
 ```
