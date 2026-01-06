@@ -1,6 +1,6 @@
 # 🚗 MaBagnole - Plateforme de Location de Véhicules & Blog Interactif
 
-**MaBagnole** est une solution web complète développée pour une agence de location de voitures. Elle permet aux clients de réserver des véhicules, de laisser des avis et de participer à un blog communautaire, tout en offrant aux administrateurs un tableau de bord puissant pour piloter l'activité.
+**MaBagnole** est une solution web complète développée pour une agence de location de voitures. Elle permet aux clients de réserver des véhicules et de laisser des avis, tout en offrant aux administrateurs un tableau de bord puissant pour piloter l'activité.
 
 ---
 
@@ -26,7 +26,6 @@ Ce projet vise à développer une plateforme intuitive permettant aux clients de
 - **Réservation Intelligente** : Prise en charge des dates et lieux.
 - **Filtrage AJAX** : Exploration des véhicules par catégorie sans rechargement de page.
 - **Système d'Avis** : Ajout, modification et suppression (Soft Delete) d'évaluations sur les véhicules loués.
-- **Blog Interactif** : Publication des commentaires, likes et gestion de favoris.
 - **Recherche & Pagination** : Moteur de recherche performant et navigation par lots (PHP ou DataTable).
 
 ### 🛠️ Dashboard Administrateur
